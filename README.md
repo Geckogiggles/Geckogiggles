@@ -3,6 +3,8 @@
 </p>
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api?username=Geckogiggles&show_icons=true&theme=tokyonight" width="400">
+
 ### Hello Peeps 👋
 
 🔭 I’m currently working on a FullStack Developer Bootcamp and some Personal Projects
