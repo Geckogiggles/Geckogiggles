@@ -4,7 +4,8 @@
 <br />
 
   <img src="https://github-readme-stats.vercel.app/api?username=Geckogiggles&show_icons=true&theme=highcontrast" width="400">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Geckogiggles)](https://github.com/Geckogiggles/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Geckogiggles)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 
