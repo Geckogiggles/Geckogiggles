@@ -14,7 +14,7 @@
 🔭 I’m currently working on a FullStack Developer Bootcamp and some Personal Projects
 <br />
 <br />
-🌱 I’m currently learning Node JS
+🌱 I’m currently learning Mongoose
 <br />
 <br />
 👯 I’m looking to collaborate on anything that improves people's lives
