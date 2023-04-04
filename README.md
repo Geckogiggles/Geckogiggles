@@ -20,7 +20,7 @@
 👯 I’m looking to collaborate on anything that improves people's lives
 <br />
 <br />
-🤔 I’m looking for help with more resources to self teach python and Java Script Logic
+🤔 I’m looking for help with more resources to self teach python and JavaScript Logic
 <br />
 <br />
 📫 How to reach me: Email me at perez.judith.eva@gmail.com
