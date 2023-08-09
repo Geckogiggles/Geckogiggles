@@ -16,7 +16,7 @@ Valedictorian of my full stack developer bootcamp
 🔭 I’m currently working on some Personal Projects & looking for a team to hire me
 <br />
 <br />
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python & getting AWS certs
 <br />
 <br />
 👯 I’m looking to collaborate on anything that improves people's lives
