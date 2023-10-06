@@ -11,7 +11,7 @@
 
 ### Hello Peeps 👋
 
-Valedictorian of my full stack developer bootcamp
+Valedictorian of the UCF FLEX Full-Stack developer bootcamp
 
 🔭 I’m currently working on some Personal Projects & looking for a team to hire me
 <br />
